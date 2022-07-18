@@ -1,1 +1,1 @@
-# sass-tutorial-01
+# ajoin-sass-tutorial
